@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science Grad from Patliputra University.
-- 💼 &nbsp; Working as a Frontend Developer for freelancing firm.
+- 💼 &nbsp; Working as a Frontend Developer for Two Oceans Stratgy.
 - 🌱 &nbsp; Learning more about  Javascript, React, React Native, Python, AI.
 - ✍️ &nbsp; Photographer as hobby and i love listening to songs.
 
